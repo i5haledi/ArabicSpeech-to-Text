@@ -2,7 +2,7 @@
 
 I developed this page to convert Arabic Speech to Text using Google's Speech-to-Text api.
 
-Link: https://arabicspeechtotext.tiiny.site/
+Link: https://arspeechtotext.htmlsave.net/
 
 # Screenshot
 
